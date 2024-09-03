@@ -46,6 +46,7 @@ python 0xD4rKEYe.py example.com -c config.json
 
 ```bash
 git clone https://github.com/0xD4rKEYe/0xD4rKEYe.git
+```
 
 2. Change to the tool's directory:
 
